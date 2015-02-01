@@ -1,10 +1,10 @@
 [{
-    "title": "Aspen",
-    "description": "This is a trip to Aspen. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "image": "aspen.png"
+    "title": "Carbondale",
+    "description": "Carbondale is a small town netstled in the Rocky Mountains between Glenwood Springs and Aspen. It's filled to the brim with unique cultural events and landmarks, and it's townfolk are a very tight-knit community.",
+    "image": "carbondale.png"
 },
 {
-    "title": "Boulder",
-    "description": "This is a trip to Boulder. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "image": "boulder.png"
+    "title": "Disneyland",
+    "description": "The Disneyland Resort in California is known as the 'happiest place on earth'. I went for my high school graduation as a road trip and massive theme park adventure all wraped up into one.",
+    "image": "disneyland.png"
 }]

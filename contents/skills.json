@@ -1,5 +1,21 @@
 [
 {
+    "title": "HTML & CSS",
+    "image": "html.png"
+},
+{
+    "title": "PHP",
+    "image": "php.png"
+},
+{
+    "title": "JavaScript",
+    "image": "js.png"
+},
+{
+    "title": "MySQL",
+    "image": "mysql.jpeg"
+},
+{
     "title": "Python",
     "image": "python.png"
 },
@@ -8,32 +24,13 @@
     "image": "cpp.png"
 },
 {
-    "title": "Paying Bills",
-    "image": "cash.png"
+    "title": "Object-Oriented Design",
+    "description": "I know about utilizing object-oriented programming along with RESTful design practices to optimize my code's capabilities.",
+    "image": "ood.jpeg"
 },
 {
-    "title": "Java",
-    "image": "java.png"
-},
-{
-    "title": "Ruby on Rails",
-    "image": "rails.png"
-},
-{
-    "title": "Ruby",
-    "image": "ruby.png"
-},
-{
-    "title": "Bootstrap",
-    "image": "bs.png"
-},
-{
-    "title": "JavaScript",
-    "image": "js.png"
-},
-{
-    "title": "Best Design Practices",
-    "description": "I am familiar with best design practices including, Object Oriented Design, Test Driven Deveolpment, Auto-Documentation, and Version Control.",
-    "image": "github.png"
+    "title": "Agile Software Development",
+    "description": "I have worked with numerous agile teams that follow the scrum methedologies, working in sprints and using user stories to track and guide our teamwork.",
+    "image": "agile.jpeg"
 }
 ]

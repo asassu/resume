@@ -1,11 +1,11 @@
 [{
-    "company": "CU Boulder",
-    "name": "Judith Cass",
-    "position": "Supervisor",
-    "email": "judith.cass@colorado.edu"
-}, {
-    "company": "Echostar",
-    "name": "Hunter Milligan",
+    "company": "Seagate",
+    "name": "Iky Chan",
     "position": "Manager",
-    "email": "hunter.milligan@echostar.com"	
+    "email": "iky.chan@seagate.com"
+}, {
+    "company": "Seagate",
+    "name": "Mike Salazar",
+    "position": "Project Lead",
+    "email": "michael.salazar@seagate.com"	
 }]
